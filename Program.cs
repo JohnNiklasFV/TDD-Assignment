@@ -4,19 +4,19 @@ public class Brain
     {
         if (args[0] == "-t")
         {
-
+            //link to test file
         }
         else if (args[1] == "-mm")
         {
-            double inputvalue = double.Parse(args[0]);
+            double inputvalue = double.Parse(args[0]); //link to converter file
         }
         else if (args[1] == "-cm")
         {
-            double inputvalue = double.Parse(args[0]);
+            double inputvalue = double.Parse(args[0]); //link to converter file
         }
         else if (args[1] == "-m")
         {
-            double inputvalue = double.Parse(args[0]);
+            double inputvalue = double.Parse(args[0]); //link to converter file
         }
         else
         {
